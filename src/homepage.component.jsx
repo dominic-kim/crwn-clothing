@@ -6,32 +6,32 @@ const HomePage = () => (
   <div className='homepage'>
     <div className='directory-menu'>
       <div className='menu-item'>
-        <div className='conent'>
-          <h1 className='title'>HATS</h1>
+        <div className='content'>
+          <div className='title'>HATS</div>
           <span className='subtitle'>SHOP NOW</span>
         </div>
       </div>
       <div className='menu-item'>
-        <div className='conent'>
-          <h1 className='title'>JACKETS</h1>
+        <div className='content'>
+          <div className='title'>JACKETS</div>
           <span className='subtitle'>SHOP NOW</span>
         </div>
       </div>
       <div className='menu-item'>
-        <div className='conent'>
-          <h1 className='title'>SNEAKERS</h1>
+        <div className='content'>
+          <div className='title'>SNEAKERS</div>
           <span className='subtitle'>SHOP NOW</span>
         </div>
       </div>
       <div className='menu-item'>
-        <div className='conent'>
-          <h1 className='title'>WOMENS</h1>
+        <div className='content'>
+          <div className='title'>WOMENS</div>
           <span className='subtitle'>SHOP NOW</span>
         </div>
       </div>
       <div className='menu-item'>
-        <div className='conent'>
-          <h1 className='title'>MENS</h1>
+        <div className='content'>
+          <div className='title'>MENS</div>
           <span className='subtitle'>SHOP NOW</span>
         </div>
       </div>
